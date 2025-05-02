@@ -1,6 +1,5 @@
 [](https://sdmntpritalynorth.oaiusercontent.com/files/00000000-5b08-6246-a362-4044c9921d46/raw?se=2025-05-02T18%3A18%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=3dd00eb4-1fe4-5cdd-824f-d821406d3a8c&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-02T06%3A56%3A34Z&ske=2025-05-03T06%3A56%3A34Z&sks=b&skv=2024-08-04&sig=AqHWRW/jl4nWrzFIFEOExbgEFZ2%2BbbPEwtP1VVXhbpI%3D)
 
-[](https://sdmntpritalynorth.oaiusercontent.com/files/00000000-5b08-6246-a362-4044c9921d46/raw?se=2025-05-02T18%3A18%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=3dd00eb4-1fe4-5cdd-824f-d821406d3a8c&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-02T06%3A56%3A34Z&ske=2025-05-03T06%3A56%3A34Z&sks=b&skv=2024-08-04&sig=AqHWRW/jl4nWrzFIFEOExbgEFZ2%2BbbPEwtP1VVXhbpI%3D)
 
 # **Progressive Streaming Search Mimarisi**
 
