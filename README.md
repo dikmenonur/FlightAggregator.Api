@@ -1,5 +1,4 @@
 
-# *![image](https://github.com/user-attachments/assets/f9761fa6-a77a-439f-bf98-fc65f9280eed)
 *Progressive Streaming Search Mimarisi**
 
 ## **1. Mimarinin Genel Bileşenleri**
